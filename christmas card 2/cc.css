@@ -26,7 +26,7 @@ body {
 }
 
 .card__header {
-    background-image: url("anh/cc.png");
+    background-image:url("https://images.careerbuilder.vn/content/images/anh-noel-careerbuilder-13.jpeg");
     background-size: cover;
     position: absolute;
     z-index: 1;
